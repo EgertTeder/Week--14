@@ -2,3 +2,7 @@ C:\Users\opilane\source\repos\logitpe21\OOPPet\OOPPet\obj\Debug\netcoreapp3.1\OO
 C:\Users\opilane\source\repos\logitpe21\OOPPet\OOPPet\obj\Debug\netcoreapp3.1\OOPPet.AssemblyInfoInputs.cache
 C:\Users\opilane\source\repos\logitpe21\OOPPet\OOPPet\obj\Debug\netcoreapp3.1\OOPPet.AssemblyInfo.cs
 C:\Users\opilane\source\repos\logitpe21\OOPPet\OOPPet\obj\Debug\netcoreapp3.1\OOPPet.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Week--14\OOPPet\OOPPet\obj\Debug\netcoreapp3.1\OOPPet.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Week--14\OOPPet\OOPPet\obj\Debug\netcoreapp3.1\OOPPet.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Week--14\OOPPet\OOPPet\obj\Debug\netcoreapp3.1\OOPPet.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Week--14\OOPPet\OOPPet\obj\Debug\netcoreapp3.1\OOPPet.csproj.CoreCompileInputs.cache

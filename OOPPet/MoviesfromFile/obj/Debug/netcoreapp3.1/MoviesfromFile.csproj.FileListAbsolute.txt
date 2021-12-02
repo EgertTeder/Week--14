@@ -1,0 +1,4 @@
+C:\Users\opilane\source\repos\Week--14\OOPPet\MoviesfromFile\obj\Debug\netcoreapp3.1\MoviesfromFile.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Week--14\OOPPet\MoviesfromFile\obj\Debug\netcoreapp3.1\MoviesfromFile.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Week--14\OOPPet\MoviesfromFile\obj\Debug\netcoreapp3.1\MoviesfromFile.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Week--14\OOPPet\MoviesfromFile\obj\Debug\netcoreapp3.1\MoviesfromFile.csproj.CoreCompileInputs.cache

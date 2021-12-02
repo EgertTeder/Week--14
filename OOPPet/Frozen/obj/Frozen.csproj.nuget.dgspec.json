@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opilane\\source\\repos\\Week--14\\OOPPet\\OOPCar\\OOPCar.csproj": {}
+    "C:\\Users\\opilane\\source\\repos\\Week--14\\OOPPet\\Frozen\\Frozen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\opilane\\source\\repos\\Week--14\\OOPPet\\OOPCar\\OOPCar.csproj": {
+    "C:\\Users\\opilane\\source\\repos\\Week--14\\OOPPet\\Frozen\\Frozen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\Week--14\\OOPPet\\OOPCar\\OOPCar.csproj",
-        "projectName": "OOPCar",
-        "projectPath": "C:\\Users\\opilane\\source\\repos\\Week--14\\OOPPet\\OOPCar\\OOPCar.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\Week--14\\OOPPet\\Frozen\\Frozen.csproj",
+        "projectName": "Frozen",
+        "projectPath": "C:\\Users\\opilane\\source\\repos\\Week--14\\OOPPet\\Frozen\\Frozen.csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\source\\repos\\Week--14\\OOPPet\\OOPCar\\obj\\",
+        "outputPath": "C:\\Users\\opilane\\source\\repos\\Week--14\\OOPPet\\Frozen\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

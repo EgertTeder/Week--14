@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opilane\\source\\repos\\Week--14\\OOPPet\\OOPCar\\OOPCar.csproj": {}
+    "C:\\Users\\opilane\\source\\repos\\Week--14\\OOPPet\\MoviesfromFile\\MoviesfromFile.csproj": {}
   },
   "projects": {
-    "C:\\Users\\opilane\\source\\repos\\Week--14\\OOPPet\\OOPCar\\OOPCar.csproj": {
+    "C:\\Users\\opilane\\source\\repos\\Week--14\\OOPPet\\MoviesfromFile\\MoviesfromFile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\Week--14\\OOPPet\\OOPCar\\OOPCar.csproj",
-        "projectName": "OOPCar",
-        "projectPath": "C:\\Users\\opilane\\source\\repos\\Week--14\\OOPPet\\OOPCar\\OOPCar.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\Week--14\\OOPPet\\MoviesfromFile\\MoviesfromFile.csproj",
+        "projectName": "MoviesfromFile",
+        "projectPath": "C:\\Users\\opilane\\source\\repos\\Week--14\\OOPPet\\MoviesfromFile\\MoviesfromFile.csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\source\\repos\\Week--14\\OOPPet\\OOPCar\\obj\\",
+        "outputPath": "C:\\Users\\opilane\\source\\repos\\Week--14\\OOPPet\\MoviesfromFile\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\Week--14\\OOPPet\\OOPPet\\OOPPet.csproj",
-      "projectName": "OOPPet",
-      "projectPath": "C:\\Users\\opilane\\source\\repos\\Week--14\\OOPPet\\OOPPet\\OOPPet.csproj",
+      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\Week--14\\OOPPet\\Frozen\\Frozen.csproj",
+      "projectName": "Frozen",
+      "projectPath": "C:\\Users\\opilane\\source\\repos\\Week--14\\OOPPet\\Frozen\\Frozen.csproj",
       "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\opilane\\source\\repos\\Week--14\\OOPPet\\OOPPet\\obj\\",
+      "outputPath": "C:\\Users\\opilane\\source\\repos\\Week--14\\OOPPet\\Frozen\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
